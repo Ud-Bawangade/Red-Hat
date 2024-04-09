@@ -34,7 +34,6 @@ You can use these questions to test your knowledge and readiness for the RHCSA e
 
 Contributions to this repository are welcome! If you have additional exam questions, corrections, or improvements, please feel free to submit a pull request.
 
-Before contributing, please review the [Contribution Guidelines](CONTRIBUTING.md) for more information.
 
 ## Disclaimer
 
@@ -43,7 +42,3 @@ This repository is provided for educational purposes only. The questions and ans
 While every effort has been made to ensure the accuracy of the content, the creators of this repository are not responsible for any errors or inaccuracies in the questions or answers.
 
 Use this repository responsibly and ensure that your study materials align with the current RHCSA exam objectives and guidelines.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
